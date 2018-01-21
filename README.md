@@ -4,4 +4,6 @@
 
 An attempt to rebuild the game [Calculator](http://www.simplemachine.co/game/calculator-the-game/) by Simple Machine LLC.
 
-### [Demo](https://nervous-austin-d4b8ec.netlify.com/)
+### Demo :point_right: [https://nervous-austin-d4b8ec.netlify.com/](https://nervous-austin-d4b8ec.netlify.com/)
+
+![](https://media.giphy.com/media/3ohc13MTQfRIjsQNck/giphy.gif)
