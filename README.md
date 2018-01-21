@@ -1,1 +1,7 @@
-### A WIP Calculator Game 
+### Calculator Game with React
+
+[![Travis](https://img.shields.io/travis/ehkoo/calculator.svg?style=flat-square)](https://travis-ci.org/ehkoo/calculator) [![Codecov](https://img.shields.io/codecov/c/github/ehkoo/calculator.svg?style=flat-square)](https://codecov.io/gh/ehkoo/calculator)
+
+An attempt to rebuild the game [Calculator](http://www.simplemachine.co/game/calculator-the-game/) by Simple Machine LLC.
+
+### [Demo](https://nervous-austin-d4b8ec.netlify.com/)
