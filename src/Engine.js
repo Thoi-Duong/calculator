@@ -17,8 +17,7 @@ function calculateGoal(initResult, ops, steps) {
   i.fill(0)
 
   return i.reduce((result, _, index) => {
-    const { func, label } = ops[index % ops.length]
-    console.log(result, label, func(result))
+    const { func } = ops[index % ops.length]
     return func(result)
   }, initResult)
 }
